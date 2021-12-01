@@ -1,6 +1,6 @@
 ### Hi there, I'm Henriques - aka [BlvkRoot]
 
-## I´m Single, Developer, Basketball Player
+## I´m a Single, Developer, Basketball Player
 - 🦅 I'm ready to fly as a GO
 - 💻 I'm a Nodejs enthusiast, focused on creating RESTFUL APIs
 - 🐟 Docker Diver, let's containerize some stuffs 😄 
